@@ -68,4 +68,10 @@ The app is pre-configured with Firebase. For production use:
 3. Create a Firestore database
 4. Update `firebase.ts` with your config
 
+## 📄 License
+
+MIT License - feel free to use this project for personal or commercial purposes.
+
 ---
+
+**Original AI Studio App**: https://ai.studio/apps/drive/1htTl_vJnxOWaWuSsPU9x0E61SVGDKmA7
