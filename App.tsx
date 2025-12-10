@@ -5,7 +5,7 @@ import { auth, db } from './firebase';
 import { UserProfile, Snippet, Folder } from './types';
 import { Layout } from './components/Layout';
 import AuthPage from './pages/Auth';
-import HomePage from './pages/Home';
+import HomePage from './pages/HomePage';
 import SnippetDetail from './pages/SnippetDetail';
 import AccountPage from './pages/Account';
 import { Loader2 } from 'lucide-react';
